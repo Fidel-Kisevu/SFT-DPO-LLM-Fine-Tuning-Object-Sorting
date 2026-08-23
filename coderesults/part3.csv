@@ -1,0 +1,121 @@
+sample_index,sample,llm_output
+0,"paperclip, carbon atom, mouse, toaster, saturn","OUTPUT:
+1. [ABSOLUTE.LARGEST]: saturn
+2. [SECOND.LARGEST]: toaster
+3. [MEDIAN.VOLUME]: mouse
+4. [SECOND.SMALLEST]: paperclip
+5. [ABSOLUTE.SMALLEST]: carbon atom"
+1,"lion, galaxy, coin, skyscraper, carbon atom","OUTPUT:
+1. [ABSOLUTE.LARGEST]: galaxy
+2. [SECOND.LARGEST]: skyscraper
+3. [MEDIAN.VOLUME]: lion
+4. [SECOND.SMALLEST]: coin
+5. [ABSOLUTE.SMALLEST]: carbon atom"
+2,"skyscraper, continent, grain of sand, city, horse","OUTPUT:
+1. [ABSOLUTE.LARGEST]: continent
+2. [SECOND.LARGEST]: city
+3. [MEDIAN.VOLUME]: skyscraper
+4. [SECOND.SMALLEST]: horse
+5. [ABSOLUTE.SMALLEST]: grain of sand"
+3,"smartphone, football, water molecule, carbon atom, skyscraper","OUTPUT:
+1. [ABSOLUTE.LARGEST]: skyscraper
+2. [SECOND.LARGEST]: football
+3. [MEDIAN.VOLUME]: smartphone
+4. [SECOND.SMALLEST]: water molecule
+5. [ABSOLUTE.SMALLEST]: carbon atom"
+4,"milky way, state, laptop, grain of salt, dog","OUTPUT:
+1. [ABSOLUTE.LARGEST]: milky way
+2. [SECOND.LARGEST]: state
+3. [MEDIAN.VOLUME]: dog
+4. [SECOND.SMALLEST]: laptop
+5. [ABSOLUTE.SMALLEST]: grain of salt"
+5,"toaster, observable universe, ocean, school bus, book","OUTPUT:
+1. [ABSOLUTE.LARGEST]: observable universe
+2. [SECOND.LARGEST]: ocean
+3. [MEDIAN.VOLUME]: school bus
+4. [SECOND.SMALLEST]: toaster
+5. [ABSOLUTE.SMALLEST]: book"
+6,"school bus, grain of sand, ping pong ball, pea, hippopotamus","OUTPUT:
+1. [ABSOLUTE.LARGEST]: school bus
+2. [SECOND.LARGEST]: hippopotamus
+3. [MEDIAN.VOLUME]: ping pong ball
+4. [SECOND.SMALLEST]: pea
+5. [ABSOLUTE.SMALLEST]: grain of sand"
+7,"electron, cruise ship, grain of rice, coin, smartphone","OUTPUT:
+1. [ABSOLUTE.LARGEST]: cruise ship
+2. [SECOND.LARGEST]: smartphone
+3. [MEDIAN.VOLUME]: coin
+4. [SECOND.SMALLEST]: grain of rice
+5. [ABSOLUTE.SMALLEST]: electron"
+8,"tennis ball, moon, city, eagle, grain of rice","OUTPUT:
+1. [ABSOLUTE.LARGEST]: moon
+2. [SECOND.LARGEST]: city
+3. [MEDIAN.VOLUME]: eagle
+4. [SECOND.SMALLEST]: tennis ball
+5. [ABSOLUTE.SMALLEST]: grain of rice"
+9,"saturn, peanut, ping pong ball, moon, book","OUTPUT:
+1. [ABSOLUTE.LARGEST]: saturn
+2. [SECOND.LARGEST]: moon
+3. [MEDIAN.VOLUME]: book
+4. [SECOND.SMALLEST]: ping pong ball
+5. [ABSOLUTE.SMALLEST]: peanut"
+10,"peanut, solar system, virus, lion, moon","OUTPUT:
+1. [ABSOLUTE.LARGEST]: solar system
+2. [SECOND.LARGEST]: moon
+3. [MEDIAN.VOLUME]: lion
+4. [SECOND.SMALLEST]: peanut
+5. [ABSOLUTE.SMALLEST]: virus"
+11,"school bus, aircraft carrier, tennis ball, bear, pea","OUTPUT:
+1. [ABSOLUTE.LARGEST]: aircraft carrier
+2. [SECOND.LARGEST]: school bus
+3. [MEDIAN.VOLUME]: bear
+4. [SECOND.SMALLEST]: tennis ball
+5. [ABSOLUTE.SMALLEST]: pea"
+12,"town, grain of sand, ocean, pickup truck, elephant","OUTPUT:
+1. [ABSOLUTE.LARGEST]: ocean
+2. [SECOND.LARGEST]: town
+3. [MEDIAN.VOLUME]: elephant
+4. [SECOND.SMALLEST]: pickup truck
+5. [ABSOLUTE.SMALLEST]: grain of sand"
+13,"skyscraper, stadium, aircraft carrier, saturn, grain of sand","OUTPUT:
+1. [ABSOLUTE.LARGEST]: saturn
+2. [SECOND.LARGEST]: stadium
+3. [MEDIAN.VOLUME]: skyscraper
+4. [SECOND.SMALLEST]: aircraft carrier
+5. [ABSOLUTE.SMALLEST]: grain of sand"
+14,"milky way, coin, blue whale, golf ball, moon","OUTPUT:
+1. [ABSOLUTE.LARGEST]: milky way
+2. [SECOND.LARGEST]: moon
+3. [MEDIAN.VOLUME]: blue whale
+4. [SECOND.SMALLEST]: golf ball
+5. [ABSOLUTE.SMALLEST]: coin"
+15,"marble, pluto, mountain, blue whale, cruise ship","OUTPUT:
+1. [ABSOLUTE.LARGEST]: pluto
+2. [SECOND.LARGEST]: mountain
+3. [MEDIAN.VOLUME]: cruise ship
+4. [SECOND.SMALLEST]: blue whale
+5. [ABSOLUTE.SMALLEST]: marble"
+16,"grain of sand, ocean, solar system, red blood cell, earth","OUTPUT:
+1. [ABSOLUTE.LARGEST]: solar system
+2. [SECOND.LARGEST]: earth
+3. [MEDIAN.VOLUME]: ocean
+4. [SECOND.SMALLEST]: grain of sand
+5. [ABSOLUTE.SMALLEST]: red blood cell"
+17,"bicycle, coin, carbon atom, microwave, pea","OUTPUT:
+1. [ABSOLUTE.LARGEST]: bicycle
+2. [SECOND.LARGEST]: microwave
+3. [MEDIAN.VOLUME]: coin
+4. [SECOND.SMALLEST]: pea
+5. [ABSOLUTE.SMALLEST]: carbon atom"
+18,"paperclip, state, protein molecule, dog, apple","OUTPUT:
+1. [ABSOLUTE.LARGEST]: state
+2. [SECOND.LARGEST]: dog
+3. [MEDIAN.VOLUME]: apple
+4. [SECOND.SMALLEST]: paperclip
+5. [ABSOLUTE.SMALLEST]: protein molecule"
+19,"galaxy cluster, electron, jupiter, hippopotamus, venus","OUTPUT:
+1. [ABSOLUTE.LARGEST]: galaxy cluster
+2. [SECOND.LARGEST]: jupiter
+3. [MEDIAN.VOLUME]: venus
+4. [SECOND.SMALLEST]: hippopotamus
+5. [ABSOLUTE.SMALLEST]: electron"

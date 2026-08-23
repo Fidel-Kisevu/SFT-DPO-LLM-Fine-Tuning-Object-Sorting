@@ -1,0 +1,322 @@
+sample_index,sample,llm_output
+0,"paperclip, carbon atom, mouse, toaster, saturn","1. Paperclip
+2. Carbon atom
+3. Mouse
+4. Toaster
+5. Saturn
+
+Note: The order of objects is determined by their atomic number, which is the number of protons in their nucleus."
+1,"lion, galaxy, coin, skyscraper, carbon atom","1. Carbon atom
+2. Skyscraper
+3. Galaxy
+4. Coin
+5. Lion
+6. BIGGEST
+7. SMALLEST
+
+The objects are sorted in ascending order based on their size."
+2,"skyscraper, continent, grain of sand, city, horse","1. Skyscraper
+2. Continent
+3. Grain of sand
+4. City
+5. Horse
+
+The objects are sorted in ascending order based on their size."
+3,"smartphone, football, water molecule, carbon atom, skyscraper","1. Smartphone
+2. Football
+3. Water molecule
+4. Carbon atom
+5. Skyscraper
+6. BIGGEST
+7. SMALLEST
+
+The objects are sorted in ascending order based on their size."
+4,"milky way, state, laptop, grain of salt, dog","1. Milky Way
+2. State
+3. Laptop
+4. Grain of Salt
+5. Dog
+6. None of the above
+
+The objects are sorted in ascending order based on their size."
+5,"toaster, observable universe, ocean, school bus, book","1. Book
+2. School bus
+3. Ocean
+4. Observer universe
+5. Toaster
+6. BIGGEST
+7. SMALLEST
+8. Book
+9. School bus
+10. Ocean
+11. Toaster
+12. BIGGEST
+13. SMALLEST
+14. Observer universe
+15. Toaster
+16. BIGGEST
+17. SMALLEST
+18. Book
+19. School bus
+20. Ocean
+21. Toaster
+22. BIGGEST
+23. SMALLEST
+24. Observer universe
+25. Toaster
+26. BIGGEST
+27. SMALLEST
+28. Book
+29. School bus
+30. Ocean
+31. Toaster
+32. BIGGEST
+33. SMALLEST
+34. Observer universe
+35. Toaster
+36. BIGGEST
+37. SMALLEST
+38. Book
+39. School bus
+4"
+6,"school bus, grain of sand, ping pong ball, pea, hippopotamus","1. School bus
+2. Grain of sand
+3. Ping pong ball
+4. Pea
+5. Hippopotamus
+6. BIGGEST
+7. SMALLEST
+
+Note: The objects are sorted in ascending order based on their size."
+7,"electron, cruise ship, grain of rice, coin, smartphone","1. Electron
+2. Cruise ship
+3. Grain of rice
+4. Coin
+5. Smartphone
+
+The objects are sorted in ascending order based on their size."
+8,"tennis ball, moon, city, eagle, grain of rice","1. Moon
+2. City
+3. Tennis ball
+4. Grain of rice
+5. Eagle
+6. Tennis ball
+7. City
+8. Tennis ball
+9. Grain of rice
+10. Eagle
+11. Tennis ball
+12. City
+13. Tennis ball
+14. Grain of rice
+15. Eagle
+16. Tennis ball
+17. City
+18. Tennis ball
+19. Grain of rice
+20. Eagle
+21. Tennis ball
+22. City
+23. Tennis ball
+24. Grain of rice
+25. Eagle
+26. Tennis ball
+27. City
+28. Tennis ball
+29. Grain of rice
+30. Eagle
+31. Tennis ball
+32. City
+33. Tennis ball
+34. Grain of rice
+35. Eagle
+36. Tennis ball
+37. City
+38. Tennis ball
+39. Grain of rice
+40. Eagle
+41. Tennis ball
+42. City
+43. Tennis ball
+4"
+9,"saturn, peanut, ping pong ball, moon, book","1. Moon
+2. Book
+3. Peanut
+4. Ping Pong Ball
+5. Saturn
+6. Moon
+7. Book"
+10,"peanut, solar system, virus, lion, moon","1. Moon
+2. Solar System
+3. Virus
+4. Lion
+5. Peanut
+6. BIGGEST
+7. SMALLEST
+
+The objects with the largest size are the peanut, followed by the solar system, virus, lion, and peanut. The objects with the smallest size are the moon, followed by the solar system, virus, lion, and peanut."
+11,"school bus, aircraft carrier, tennis ball, bear, pea","1. School bus
+2. Aircraft carrier
+3. Tennis ball
+4. Bear
+5. Pea
+
+Note: The order of objects is determined by their size, so the output will be in the same order as the input."
+12,"town, grain of sand, ocean, pickup truck, elephant","1. Town
+2. Grain of sand
+3. Ocean
+4. Pickup truck
+5. Elephant
+
+The objects are sorted in ascending order based on their size."
+13,"skyscraper, stadium, aircraft carrier, saturn, grain of sand","1. Grain of sand
+2. Saturn
+3. Skyscraper
+4. Aircraft carrier
+5. Stadium
+6. BIGGEST
+7. SMALLEST"
+14,"milky way, coin, blue whale, golf ball, moon","1. Moon
+2. Coin
+3. Blue whale
+4. Golf ball
+5. Milky way
+6. Coin
+7. Blue whale
+8. Golf ball
+9. Coin
+10. Milky way
+11. Coin
+12. Blue whale
+13. Golf ball
+14. Coin
+15. Milky way
+16. Coin
+17. Blue whale
+18. Golf ball
+19. Coin
+20. Milky way
+21. Coin
+22. Blue whale
+23. Golf ball
+24. Coin
+25. Milky way
+26. Coin
+27. Blue whale
+28. Golf ball
+29. Coin
+30. Milky way
+31. Coin
+32. Blue whale
+33. Golf ball
+34. Coin
+35. Milky way
+36. Coin
+37. Blue whale
+38. Golf ball
+39. Coin
+40. Milky way
+41"
+15,"marble, pluto, mountain, blue whale, cruise ship","1. Blue whale
+2. Cruise ship
+3. Pluto
+4. Mountain
+5. Marble
+6. Blue whale
+7. Cruise ship
+8. Pluto
+9. Mountain
+10. Marble
+11. Blue whale
+12. Cruise ship
+13. Pluto
+14. Mountain
+15. Marble
+16. Blue whale
+17. Cruise ship
+18. Pluto
+19. Mountain
+20. Marble
+21. Blue whale
+22. Cruise ship
+23. Pluto
+24. Mountain
+25. Marble
+26. Blue whale
+27. Cruise ship
+28. Pluto
+29. Mountain
+30. Marble
+31. Blue whale
+32. Cruise ship
+33. Pluto
+34. Mountain
+35. Marble
+36. Blue whale
+37. Cruise ship
+38. Pluto
+39. Mountain
+40. Marble
+41. Blue whale
+42. Cruise ship
+43."
+16,"grain of sand, ocean, solar system, red blood cell, earth","1. Ocean
+2. Solar system
+3. Red blood cell
+4. Earth
+5. Grain of sand
+6. Ocean
+7. Solar system
+8. Red blood cell
+9. Earth
+10. Grain of sand
+11. Ocean
+12. Solar system
+13. Red blood cell
+14. Earth
+15. Grain of sand
+16. Ocean
+17. Solar system
+18. Red blood cell
+19. Earth
+20. Grain of sand
+21. Ocean
+22. Solar system
+23. Red blood cell
+24. Earth
+25. Grain of sand
+26. Ocean
+27. Solar system
+28. Red blood cell
+29. Earth
+30. Grain of sand
+31. Ocean
+32. Solar system
+33. Red blood cell
+34. Earth
+35. Grain of sand
+36. Ocean
+37. Solar system
+38. Red blood cell
+39. Earth
+40. Grain of sand
+41. Ocean
+42. Sol"
+17,"bicycle, coin, carbon atom, microwave, pea","Bicycle, carbon atom, microwave, pea, coin"
+18,"paperclip, state, protein molecule, dog, apple","1. Paperclip
+2. State
+3. Protein molecule
+4. Dog
+5. Apple
+6. BIGGEST
+7. SMALLEST
+
+The objects with the largest size are the paperclip, state, protein molecule, dog, and apple, while the smallest objects are the paperclip, state, protein molecule, dog, and apple."
+19,"galaxy cluster, electron, jupiter, hippopotamus, venus","1. Galaxy cluster
+2. Electron
+3. Jupiter
+4. Hippopotamus
+5. Venus
+6. None of the above
+
+The objects are sorted in ascending order based on their size."
