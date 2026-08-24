@@ -42,4 +42,3 @@ Comparing Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO),  a
 - TRL (Transformer Reinforcement Learning)
 - PyTorch
 
-## Repository Structure
